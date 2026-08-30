@@ -1,0 +1,72 @@
+﻿@model MyAppMVC.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container">
+
+    <h2>Chi tiết sản phẩm</h2>
+
+    <div class="row">
+
+  
+        <div class="col-md-4">
+
+            <img src="@Model.Image"
+                 class="detail-image"
+                 alt="@Model.Name" />
+
+        </div>
+
+     
+        <div class="col-md-8">
+
+            <h3>@Model.Name</h3>
+
+            <p>
+                <strong>Giá gốc:</strong>
+                <del>@Model.Price.ToString("N0")</del>
+            </p>
+
+            <p>
+                <strong>Giá mới:</strong>
+                @Model.SalePrice.ToString("N0")
+            </p>
+
+            <p>
+                <strong>Mô tả:</strong>
+            </p>
+
+            <p>
+                @Model.Description
+            </p>
+
+            <p>
+                <strong>Trạng thái:</strong>
+
+                @if (Model.Status)
+                {
+                    <span class="status-text">Còn hàng</span>
+                }
+                else
+                {
+                    <span class="out-stock">Hết hàng</span>
+                }
+            </p>
+
+            <p>
+                <strong>Ngày đăng:</strong>
+                @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")
+            </p>
+
+      
+            <a href="/san-pham" class="back-button">
+                Về danh sách
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

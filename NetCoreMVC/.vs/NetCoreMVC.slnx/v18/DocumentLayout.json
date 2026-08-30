@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinhtrucquan\\NetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|e:\\laptrinhtrucquan\\netcoremvc\\netcoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F7EC34-5070-AA31-19BB-4F968D3FF749}|NetCoreMVC\\NetCoreMVC.csproj|solutionrelative:netcoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NetCoreMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T08:24:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NetCoreMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NetCoreMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-29T08:10:45.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T08:17:02.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NetCoreMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAGUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:30:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "NetCoreMVC\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T08:10:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T08:09:57.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Models\\ProductViewModel.cs",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "NetCoreMVC\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:08:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Models\\Product.cs",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\Product.cs",
+              "RelativeToolTip": "NetCoreMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:08:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NetCoreMVC\\Models\\Category.cs",
+              "ToolTip": "E:\\laptrinhtrucquan\\NetCoreMVC\\NetCoreMVC\\Models\\Category.cs",
+              "RelativeToolTip": "NetCoreMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:06:47.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
